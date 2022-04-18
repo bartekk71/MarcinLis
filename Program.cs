@@ -35,8 +35,25 @@ namespace TrainingMarcinLisExamples
             Console.WriteLine("First number is: " + firstNumber);
             Console.WriteLine("Second number is: " + secondNumber);
 
+            //5.Jednoczesna deklaracja i inicjaliacja zmiennych.
+            int thirdNumber = 10;
+            int fourthNumber = 40;
+            int i, j, k;
 
+            i = 0;
+            j = 0;
+            k = 1;
 
+            int sum;
+
+            sum = thirdNumber + fourthNumber;
+
+            Console.WriteLine("Third number is: " + thirdNumber);
+            Console.WriteLine("Fourth number is: " + fourthNumber);
+            Console.WriteLine("i: " + i);
+            Console.WriteLine("j: " + j);
+            Console.WriteLine("k: " + k);
+            Console.WriteLine("Sum is: " + sum);
         }
     }
 }
