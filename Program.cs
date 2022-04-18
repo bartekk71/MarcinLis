@@ -13,6 +13,11 @@ namespace TrainingMarcinLisExamples
 
             Console.WriteLine("Hahahahaha!");
             Console.ReadKey();
+
+
+            //Trzeci commit
+
+
         }
     }
 }
