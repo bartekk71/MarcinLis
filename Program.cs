@@ -8,6 +8,11 @@ namespace TrainingMarcinLisExamples
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
+
+            //Drugi commit
+
+            Console.WriteLine("Hahahahaha!");
+            Console.ReadKey();
         }
     }
 }
