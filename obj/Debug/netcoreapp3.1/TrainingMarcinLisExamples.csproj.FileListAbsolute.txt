@@ -1,0 +1,13 @@
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\bin\Debug\netcoreapp3.1\TrainingMarcinLisExamples.exe
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\bin\Debug\netcoreapp3.1\TrainingMarcinLisExamples.deps.json
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\bin\Debug\netcoreapp3.1\TrainingMarcinLisExamples.runtimeconfig.json
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\bin\Debug\netcoreapp3.1\TrainingMarcinLisExamples.runtimeconfig.dev.json
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\bin\Debug\netcoreapp3.1\TrainingMarcinLisExamples.dll
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\bin\Debug\netcoreapp3.1\TrainingMarcinLisExamples.pdb
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\obj\Debug\netcoreapp3.1\TrainingMarcinLisExamples.csprojAssemblyReference.cache
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\obj\Debug\netcoreapp3.1\TrainingMarcinLisExamples.AssemblyInfoInputs.cache
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\obj\Debug\netcoreapp3.1\TrainingMarcinLisExamples.AssemblyInfo.cs
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\obj\Debug\netcoreapp3.1\TrainingMarcinLisExamples.csproj.CoreCompileInputs.cache
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\obj\Debug\netcoreapp3.1\TrainingMarcinLisExamples.dll
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\obj\Debug\netcoreapp3.1\TrainingMarcinLisExamples.pdb
+C:\Users\bbornus\source\repos\TrainingMarcinLisExamples\obj\Debug\netcoreapp3.1\TrainingMarcinLisExamples.genruntimeconfig.cache
