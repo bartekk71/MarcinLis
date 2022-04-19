@@ -54,6 +54,38 @@ namespace TrainingMarcinLisExamples
             Console.WriteLine("j: " + j);
             Console.WriteLine("k: " + k);
             Console.WriteLine("Sum is: " + sum);
+
+            //6. Proste operacje arytmetyczne
+            int a, b, c;
+
+            a = 10;
+            b = 25;
+            c = b - a;
+            Console.WriteLine("a = " + a);
+            Console.WriteLine("b = " + b);
+            Console.WriteLine("b - a = " + c);
+            c = a * b;
+            Console.WriteLine("a * b = " + c);
+
+            //7. Dzielenie modulo
+            int d, e, f;
+            d = 10;
+            e = 25;
+            f = d % e;
+            Console.WriteLine("e % d = " + f);
+            Console.WriteLine("11 % 3 = " + 11 % 3);
+            f = d * e;
+            Console.WriteLine("(d * e) % 120 = " + f % 120);
+
+            //8. Operator inkrementacji
+            int x = 1, y;
+            Console.WriteLine(++x);
+            Console.WriteLine(x++);
+            Console.WriteLine(x);
+            y = x++;
+            Console.WriteLine(y);
+            y = ++x;
+            Console.WriteLine(++y);
         }
     }
 }
